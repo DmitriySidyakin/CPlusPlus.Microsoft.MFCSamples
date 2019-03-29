@@ -1,2 +1,2 @@
 # MFCSamples
-Примеры по Microsoft MVC
+Примеры технологии Microsoft MVC
